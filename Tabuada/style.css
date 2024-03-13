@@ -1,0 +1,62 @@
+@font-face {
+    font-family: font1;
+    src: url(copyduck/Copyduck.otf);
+}
+
+body {
+    text-align: center;
+    margin: 0 none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://i.pinimg.com/originals/85/45/a5/8545a561c8345dcc2853b32150d812fd.png);
+    font-family: font1;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    font-size: 35px;
+    background-color: rgba(122, 141, 122, 0.425);
+    border-radius: 7px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+button {
+    background-color: rgb(53, 107, 67);
+    border: none;
+    font-size: 25px;
+    border-radius: 7px;
+    font-family: font1;
+}
+
+input {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    font-size: 22px;
+    border-radius: 7px;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-family: font1;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    background-color: rgba(122, 141, 122, 0.425) ;
+    font-size: 30px;
+}
+
+.tabela {
+    padding-right: 15px;
+    padding-left: 19px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    font-size: 35px;
+
+}
+
